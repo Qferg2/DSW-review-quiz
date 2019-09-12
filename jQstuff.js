@@ -1,17 +1,17 @@
 $(document).ready(function(){
-  $("q1").click(function(){
-    $("a1").toggle();
+  $("#q1").click(function(){
+    $("#a1").toggle();
   });
-  $("q2").click(function(){
-    $("a2").toggle();
+  $("#q2").click(function(){
+    $("#a2").toggle();
   });
-  $("q3").click(function(){
-    $("a3").toggle();
+  $("#q3").click(function(){
+    $("#a3").toggle();
   });
-  $("q4").click(function(){
-    $("a4").toggle();
+  $("#q4").click(function(){
+    $("#a4").toggle();
   });
-  $("q5").click(function(){
-    $("a5").toggle();
+  $("#q5").click(function(){
+    $("#a5").toggle();
   });
 });
